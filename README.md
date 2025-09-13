@@ -45,11 +45,6 @@ I’m a passionate developer skilled in building scalable web applications with 
 
 ---
 
-## 🏆 Achievements  
-- Secured **Rank 136 in WBJEE 2022**
-
----
-
 ## 🌐 Connect With Me  
 - 📧 Email: **tirthankarde48@gmail.com**  
 - 💼 LinkedIn: [https://www.linkedin.com/in/tirthankar-de-7b9732255/](#)  
