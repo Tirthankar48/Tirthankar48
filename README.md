@@ -14,12 +14,12 @@ I’m a passionate developer skilled in building scalable web applications with 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages**: C, C++, Java, Python, JavaScript, TypeScript  
-**Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
-**Backend**: Node.js, Express.js  
-**Databases**: MongoDB, MySQL  
-**Tools & OS**: Git, GitHub, VS Code, Windows, Linux  
-**Cloud & Deployment**: AWS, Vercel  
+**Languages:** C, C++, Java, Python, JavaScript, TypeScript  
+**Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Tools & OS:** Git, GitHub, VS Code, Windows, Linux  
+**Cloud & Deployment:** AWS, Vercel  
 
 ---
 
@@ -31,11 +31,24 @@ I’m a passionate developer skilled in building scalable web applications with 
 - Optimized SEO & performance with **SSR, REST APIs, image lazy-loading, and caching**  
 - Enhanced UI/UX with **responsive design & Tailwind CSS**  
 
+---
+
 ### 💬 [Real-Time Chat Application](https://github.com/Tirthankar48/Chat-App)  
 - Built with **MERN stack & Socket.IO**  
 - Features: private/group chats, online user indicators, timestamps  
 - Implemented **JWT authentication** and optimized Socket.IO for **low-latency messaging**  
-- Designed responsive UI with **Tailwind CSS**  
+- Designed responsive UI with **Tailwind CSS**
+
+---
+
+### 📈 [Linear Regression - Kaggle Project](https://github.com/Tirthankar48/Linear-Regression-Kaggle)  
+- Built using **Python, NumPy, Pandas, Matplotlib, Scikit-learn**  
+- Performed **Simple Linear Regression** to analyze relationships between variables  
+- Achieved **MSE = 7.9** and **R² Score = 0.72 (72% accuracy)** on test data  
+- Visualized regression line and performance metrics using Matplotlib  
+- Demonstrated solid understanding of data preprocessing, EDA, and model evaluation 
+
+---
 
 ### 🏥 [Doctor Appointment Booking System](https://github.com/Tirthankar48/DABS-App)  
 - Full-stack app using **MERN stack**  
@@ -48,4 +61,4 @@ I’m a passionate developer skilled in building scalable web applications with 
 ## 🌐 Connect With Me  
 - 📧 Email: **tirthankarde48@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/tirthankar-de-7b9732255](https://www.linkedin.com/in/tirthankar-de-7b9732255/)  
-- 🖥️ GitHub: [github.com/Tirthankar48](https://github.com/Tirthankar48)  
+- 🖥️ GitHub: [github.com/Tirthankar48](https://github.com/Tirthankar48)
