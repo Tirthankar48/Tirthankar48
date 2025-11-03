@@ -18,7 +18,8 @@ I’m a passionate developer skilled in building scalable web applications with 
 **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
-**Tools & OS:** Git, GitHub, VS Code, Windows, Linux  
+**Tools & OS:** Git, GitHub, VS Code, Windows, Linux
+**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn
 **Cloud & Deployment:** AWS, Vercel  
 
 ---
@@ -41,7 +42,7 @@ I’m a passionate developer skilled in building scalable web applications with 
 
 ---
 
-### 📈 [Linear Regression - Kaggle Project](https://github.com/Tirthankar48/Linear-Regression-Kaggle)  
+### 📈 [Linear Regression - Kaggle Project](https://www.kaggle.com/code/tirthankar48/linear-regression-nova)  
 - Built using **Python, NumPy, Pandas, Matplotlib, Scikit-learn**  
 - Performed **Simple Linear Regression** to analyze relationships between variables  
 - Achieved **MSE = 7.9** and **R² Score = 0.72 (72% accuracy)** on test data  
